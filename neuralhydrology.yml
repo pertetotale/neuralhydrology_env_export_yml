@@ -322,4 +322,4 @@ dependencies:
   - pip:
       - neuralhydrology==1.7.0
       - torchvision==0.15.2
-prefix: C:\Users\VanOp\mambaforge\envs\neuralhydrology_cuda11_8
+prefix: C:\Users\x\mambaforge\envs\neuralhydrology_cuda11_8
